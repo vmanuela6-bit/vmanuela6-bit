@@ -29,7 +29,7 @@ Sou uma profissional focada em conectar Tecnologia, Design e Gestão, alinhando 
 
 ---
 
-### 🛠️ Competências Tecnológicas
+### Competências Tecnológicas
 
 <p align="left">
   <strong>Design & Prototipagem:</strong> Figma <br>
@@ -40,7 +40,7 @@ Sou uma profissional focada em conectar Tecnologia, Design e Gestão, alinhando 
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### Estatísticas de Contribuição
 
 <div align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -53,7 +53,7 @@ Sou uma profissional focada em conectar Tecnologia, Design e Gestão, alinhando 
 
 ---
 
-### 📡 Conecte-se Comigo
+### Conecte-se Comigo
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
