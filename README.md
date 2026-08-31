@@ -50,16 +50,3 @@ Sou uma profissional focada em conectar Tecnologia, Design e Gestão, alinhando 
     <img height="165em" src="https://vercel.app" alt="Linguagens mais usadas" />
   </a>
 </div>
-
----
-
-### Conecte-se Comigo
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vmanuela6@icloud.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
