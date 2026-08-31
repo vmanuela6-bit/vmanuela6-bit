@@ -1,6 +1,7 @@
 <!-- BANNER CORPORATIVO LINDA AZUL -->
 <p align="center">
-  <img src="https://github.com" width="100%" alt="Vitória Manuela Banner" />
+  <img src="<img width="1061" height="266" alt="image" src="https://github.com/user-attachments/assets/a163b2bc-a163-4362-be97-9febc491c33f" />
+" width="100%" alt="Vitória Manuela Banner" />
 </p>
 
 
@@ -10,12 +11,6 @@
 <p align="left">
   <strong>Front End | CSS | Figma | C#</strong>
 </p>
-
-<p align="left">
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Localização" />
-</p>
-
 ---
 
 ### Sobre Mim
