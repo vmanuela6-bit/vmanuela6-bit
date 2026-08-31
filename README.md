@@ -33,14 +33,3 @@ Sou uma profissional focada em conectar Tecnologia, Design e Gestão, alinhando 
 </p>
 
 ---
-
-### Estatísticas de Contribuição
-
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <!-- Painel Geral com cores corporativas azuis -->
-    <img height="165em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-    <!-- Painel de Linguagens combinando -->
-    <img height="165em" src="https://vercel.app" alt="Linguagens mais usadas" />
-  </a>
-</div>
