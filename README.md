@@ -1,6 +1,6 @@
 <!-- BANNER CORPORATIVO LINDA AZUL -->
 <p align="center">
-  <img width="822" height="195" alt="image" src="https://github.com/user-attachments/assets/ed04db3d-b66d-49fe-80d3-852f203afcd9" />
+  <img width="822" height="195" alt="image" src="https://github.com/user-attachments/assets/ed04db3d-b66d-49fe-80d3-852f203afcd9" width="100%" height="400px" style="object-fit: cover;" alt="Vitória Manuela Banner" />
 </p>
 
 
